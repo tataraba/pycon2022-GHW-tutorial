@@ -1,0 +1,5 @@
+fastapi
+beanie
+pydantic[dotenv]
+uvicorn
+pymongo[srv]
